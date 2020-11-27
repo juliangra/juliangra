@@ -1,12 +1,16 @@
-### Hi there 👋
+### 👋 Hi there
 
-Here are some ideas to get you started:
+I am a Computer Science student at the Norwegian Univeristy of Science and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📚 **Languages**: JavaScript, Python, PHP, TypeScript
+- 📖 **Other _"languages"_**: HTML5, CSS3, SQL, GraphQL
+- 🔨 **Technologies**: React, Node.js, Flask, Rest, Git
+
+<a href="https://github.com/magnusrodseth">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliangra&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliangra&theme=buefy&layout=compact" />
+</a>
+
+### 📬 Get in touch
+✉️ <a href="mailto:juliangr@stud.ntnu.no">Mail</a>  
+🔗 <a href="https://www.linkedin.com/in/julian-grande/">LinkedIn</a>
