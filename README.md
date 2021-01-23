@@ -2,7 +2,7 @@
 
 I am a Computer Science student at the Norwegian Univeristy of Science and Technology
 
-- 📚 **Languages**: JavaScript, Python, PHP, TypeScript
+- 📚 **Languages**: JavaScript, Python, PHP, TypeScript, Java
 - 📖 **Other _"languages"_**: HTML5, CSS3, SQL, GraphQL
 - 🔨 **Technologies**: React, Node.js, Flask, Rest, Git
 
