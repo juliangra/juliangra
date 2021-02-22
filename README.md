@@ -1,8 +1,8 @@
-### 👋 Hi there
+### 👋 Hey!
 
-I am a Computer Science student at the Norwegian Univeristy of Science and Technology
+I am a Computer Science student at the Norwegian University of Science and Technology
 
-- 📚 **Languages**: JavaScript, Python, PHP, TypeScript, Java
+- 📚 **Languages**: JavaScript, Typescript, Python, Java
 - 📖 **Other _"languages"_**: HTML5, CSS3, SQL, GraphQL
 - 🔨 **Technologies**: React, Node.js, Flask, Rest, Git
 
