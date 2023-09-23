@@ -51,5 +51,5 @@ I am a Computer Science student currently attending the Norwegian University of 
 
   <br/>  
   
-  ![Profile views](https://gpvc.arturio.dev/juliangra)
+  ![Profile views](https://komarev.com/ghpvc/?username=juliangra&style=for-the-badge)
 </div>
