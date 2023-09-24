@@ -58,7 +58,7 @@ I am a Computer Science student currently attending the Norwegian University of 
 <div align="center">
 <h2>📬 Want to get in touch? <br/></h2>
   <p>You can contact me by email by <a href="mailto:juliangr@stud.ntnu.no"> clicking here</a><br/>
-  If you are interested in my professional experience, <a href="https://www.linkedin.com/in/julian-grande/">visit my LinkedIn</a></p>
+  If you are interested in my professional experience, <a href="https://www.linkedin.com/in/juliangra/">visit my LinkedIn</a></p>
 
   <br/>  
   
